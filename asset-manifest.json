@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/resumeportfolio/static/css/main.7a7d29af.css",
+    "main.js": "/resumeportfolio/static/js/main.572272cd.js",
+    "static/media/skydiveShriyu.JPG": "/resumeportfolio/static/media/skydiveShriyu.c0e6673987b25b975ee4.JPG",
+    "static/media/treeShriyu.jpg": "/resumeportfolio/static/media/treeShriyu.2d0fdb243ed477ac223b.jpg",
+    "index.html": "/resumeportfolio/index.html",
+    "main.7a7d29af.css.map": "/resumeportfolio/static/css/main.7a7d29af.css.map",
+    "main.572272cd.js.map": "/resumeportfolio/static/js/main.572272cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a7d29af.css",
+    "static/js/main.572272cd.js"
+  ]
+}

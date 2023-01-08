@@ -5,10 +5,10 @@ export default class Sidebar extends Component {
     return (
       <div>
         <div>
-          <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
+          <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
-              <div className="author-img" style={{backgroundImage: 'url(images/treeShriyu.jpg)'}} />
+              <div className="author-img" style={{backgroundImage: 'url(' + require('.//images/treeShriyu.jpg') + ')'}} />
               <h1 id="colorlib-logo"><a href="index.html">Shriyu Gaglani</a></h1>
               <span className="email"><i className="icon-mail"></i> shriyugaglani19@gmail.com</span>
             </div>
